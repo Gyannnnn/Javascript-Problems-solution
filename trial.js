@@ -152,7 +152,7 @@ console.log(rd3);
 
 for (const name25  of "Gyanranjnan Parea") {
 
-    console.log(name25);
+    console.log(name25)
     
 }
 
